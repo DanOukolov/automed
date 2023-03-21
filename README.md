@@ -28,3 +28,8 @@ Firebase and GPT 3.5 from Open AI
 This project serves as the absolute basic of an automated medical encounter note. 
 
 
+Automation for Electronic Medical Records (EMRs) in the medical field is essential to improve the quality of patient care, reduce medical errors, and streamline administrative tasks. EMRs contain vital information about a patient's medical history, diagnosis, and treatment plan, which must be easily accessible by medical professionals at all times. However, the manual handling of paper records can be time-consuming, prone to errors, and difficult to maintain.
+
+Automation of EMRs can help healthcare providers to quickly access accurate patient information and make informed decisions. This can lead to better patient outcomes, improved efficiency, and reduced healthcare costs. EMR automation can also help to reduce the risk of medical errors, such as misdiagnosis, incorrect medication dosage, or missed allergies, by providing instant access to updated patient information.
+
+Moreover, automation can simplify administrative tasks by automating billing, scheduling, and record-keeping processes, which can reduce errors and save time for medical professionals. Additionally, EMR automation can improve communication between medical professionals and patients by providing secure online access to medical records, which can help to enhance patient engagement and satisfaction.
