@@ -7,15 +7,20 @@
 A Proof of Concept for an EMR that uses Natural Language Models 
 
 
-Long Term Vision -- to build an EMR and Medical Office experience that is heavily reliant on patients taking charge of their own documentation with the help of AI and the use of HL7 FHIR to track patient docs and data. 
+### Long Term Vision 
+I want to build an EMR and Medical Office experience that is heavily reliant on patients taking charge of their own documentation with the help of AI and the use of HL7 FHIR to track patient docs and data. 
 
-Color Scheme: Purple to soothe the soul. 
+### Color Scheme
+Purple to soothe the soul. 
 
-Teck Stack: FERN. 
+### Teck Stack
+FERN 
 
-APIs: Firebase and GPT 3.5 from Open AI. 
+### APIs 
+Firebase and GPT 3.5 from Open AI 
 
-Final Reflections: This project serves as the absolute basic of an automated medical encounter note. 
+### Final Reflections 
+This project serves as the absolute basic of an automated medical encounter note. 
 
 
 
