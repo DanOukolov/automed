@@ -11,16 +11,5 @@ A Proof of Concept for an EMR that uses Natural Language Models
 
 ## Deliverables
 
-- [Google Slide](https://codepen.io/owenmundy/pen/oNLZpWM)
-- [Figma](https://codepen.io/owenmundy/pen/GRdLgoX)
-- Learn Javascript [Examples / Demos](https://github.com/omundy/learn-javascript/#examples--demos)
-- Also see demos inside project repos
-
-
-<!--
-
-1. Set up your development environment [topics/development/environment.md](topics/development/environment.md)
-1. Learn to use Dev Tools [topics/development/dev-tools.md](topics/development/dev-tools.md)
-1. [topics/design/web-design.md](topics/design/web-design.md) - Design Critiques, Tips, etc.
-
- -->
+- [Google Slide](https://docs.google.com/presentation/d/1L9AKmOW8Denx7MTkOTdVFFV4zOAocYgAHETadLNdY_8/edit?usp=sharing)
+- [Figma](https://www.figma.com/file/ic9GAV7s2EFdypH37CVllY/automed?node-id=13-117&t=cUA1eWsmDdKRqvGl-0)
