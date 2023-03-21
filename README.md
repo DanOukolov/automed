@@ -2,14 +2,14 @@
 ![AutoMed](client/public/Component.png)
 
 
-# DIG 245 - Critical Web Design
+# DIG 345 - Project 1 AutoMed
 
-Tutorials, demos, and resources for DIG 245 Critical Web Design
-
-
+A Proof of Concept for an EMR that uses Natural Language Models 
 
 
-## Examples / Demos
+
+
+## Deliverables
 
 - [Bootstrap 5.2 grid demo / jQuery 3.6 template](https://codepen.io/owenmundy/pen/oNLZpWM)
 - [SVG Basics](https://codepen.io/owenmundy/pen/GRdLgoX)
