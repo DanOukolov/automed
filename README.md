@@ -11,8 +11,8 @@ A Proof of Concept for an EMR that uses Natural Language Models
 
 ## Deliverables
 
-- [Bootstrap 5.2 grid demo / jQuery 3.6 template](https://codepen.io/owenmundy/pen/oNLZpWM)
-- [SVG Basics](https://codepen.io/owenmundy/pen/GRdLgoX)
+- [Google Slide](https://codepen.io/owenmundy/pen/oNLZpWM)
+- [Figma](https://codepen.io/owenmundy/pen/GRdLgoX)
 - Learn Javascript [Examples / Demos](https://github.com/omundy/learn-javascript/#examples--demos)
 - Also see demos inside project repos
 
