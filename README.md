@@ -33,3 +33,5 @@ Automation for Electronic Medical Records (EMRs) in the medical field is essenti
 Automation of EMRs can help healthcare providers to quickly access accurate patient information and make informed decisions. This can lead to better patient outcomes, improved efficiency, and reduced healthcare costs. EMR automation can also help to reduce the risk of medical errors, such as misdiagnosis, incorrect medication dosage, or missed allergies, by providing instant access to updated patient information.
 
 Moreover, automation can simplify administrative tasks by automating billing, scheduling, and record-keeping processes, which can reduce errors and save time for medical professionals. Additionally, EMR automation can improve communication between medical professionals and patients by providing secure online access to medical records, which can help to enhance patient engagement and satisfaction.
+
+This project has shown me the scope of the difficulty that tech faces with healthcare. However, there is some hope if we can utilize NLM to the best of our ability!
